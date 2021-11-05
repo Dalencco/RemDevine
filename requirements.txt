@@ -1,4 +1,4 @@
-python-nmap==1.5.1
+python-nmap==0.7.1
 requests==2.26.0
 colorama==0.4.4
 digest==1.0.2
