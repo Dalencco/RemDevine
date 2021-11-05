@@ -1,0 +1,6 @@
+python-nmap==0.6.4
+requests==2.25.1
+colorama==0.4.4
+digest==1.0.2
+dnspython==2.1.0
+sourcedefender==7.1.61
