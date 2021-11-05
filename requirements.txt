@@ -1,5 +1,5 @@
-python-nmap==0.6.4
-requests==2.25.1
+python-nmap==1.5.1
+requests==2.26.0
 colorama==0.4.4
 digest==1.0.2
 dnspython==2.1.0
